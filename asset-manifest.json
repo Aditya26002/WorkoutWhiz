@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/WorkoutWhiz/static/css/main.32ece884.css",
+    "main.js": "/WorkoutWhiz/static/js/main.3a8e1496.js",
+    "static/media/banner.png": "/WorkoutWhiz/static/media/banner.5209b5e92a864ca0c615.png",
+    "static/media/Logo.jpeg": "/WorkoutWhiz/static/media/Logo.741bf4227cd8311e34bd.jpeg",
+    "static/media/gym.png": "/WorkoutWhiz/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/WorkoutWhiz/index.html",
+    "main.32ece884.css.map": "/WorkoutWhiz/static/css/main.32ece884.css.map",
+    "main.3a8e1496.js.map": "/WorkoutWhiz/static/js/main.3a8e1496.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32ece884.css",
+    "static/js/main.3a8e1496.js"
+  ]
+}
